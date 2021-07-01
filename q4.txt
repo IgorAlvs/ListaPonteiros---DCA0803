@@ -8,4 +8,4 @@ d. i = (*&)j;         ILEGAL
 e. i = *&j;            
 f. i = &&j;           ILEGAL
 g. q = *p;             
-h. i = (*p)` + *q;    ILEGAL
+h. i = (*p)` + *q;    (' erro de digitação)
