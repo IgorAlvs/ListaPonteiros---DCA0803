@@ -6,7 +6,7 @@ int main (void){
 	int *p, *q;
 	p = &i;
 	q = &j;
-	int diff, op;                //Declarando as variáveis para as operações 
+	int diff, op;                //Declarando as variÃ¡veis para as operaÃ§Ãµes 
 	
 	p == &i;
 	diff = *p - *q;
