@@ -1,6 +1,0 @@
-1. Qual a utilidade do aprendizado do uso de ponteiro para aplicações em engenharia?
-
-  Atualmente, o mercado de trabalho procura cada vez mais profissionais da área da engenharia que tenham maestria em programação para que tornem certos trabalhos mais
-  práticos e consistentes. Diante disso, a função de "ponteiros" apareceu na programação com o mesmo intuito citado acima, tornar certos procedimentos mais práticos e
-  possíveis, assim, os ponteiros podem servir como um ponto direcional, ou seja, são variáveis que armazenam o endereço de memória de outras variáveis, realiza a passagem
-  por parâmetros, não é necesário a passagem por valor e seu uso pode ser feito de inúmeras maneiras. Com isso, os ponteiros revolucionaram a área da programação.
