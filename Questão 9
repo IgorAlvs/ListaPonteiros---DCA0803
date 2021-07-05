@@ -16,7 +16,7 @@ int main(){
 	int i;
 	
 	for(i=0;i<3;i++){
-	printf("%X ", vet+i);            //Retorna o endereço de memória guardado em cada elemento do vetor (62FE10, 62FE14 e 62FE18)
+	printf("%X ", vet+i);            //Retorna o endereÃ§o de memÃ³ria guardado em cada elemento do vetor (62FE10, 62FE14 e 62FE18)
 	}
 	
 }
