@@ -1,3 +1,4 @@
+//PARTE 1
 
 int main(){
 	
@@ -9,6 +10,8 @@ int main(){
 	}
 	
 }
+
+//PARTE 2
 
 int main(){
 	
