@@ -17,6 +17,6 @@ int main (){
 	printf("*px = %d \n", *px);
 	printf("px = %p \n", *px);
 	printf("px = %p \n", px + 2);
-	printf("*px = %d \n", *(px + 2));        //Valor do 3° elemento
+	printf("*px = %d \n", *(px + 2));        //Valor do 3Â° elemento
 	return 0;
 }
