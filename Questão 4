@@ -2,10 +2,10 @@
 atribuição são ilegais?
 
 a. p = &i;   
-b. *q = &j;
-c. p = &*&i;          ILEGAL
+b. *q = &j;           ILEGAL
+c. p = &*&i;          
 d. i = (*&)j;         ILEGAL
 e. i = *&j;            
 f. i = &&j;           ILEGAL
-g. q = *p;             
-h. i = (*p)` + *q;    (' erro de digitação)
+g. q = *p;            ILEGAL 
+h. i = (*p)` + *q;    ILEGAL (' erro de digitação)
