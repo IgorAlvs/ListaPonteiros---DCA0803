@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <gc/gc.h>
 
-int main (int argc, char **argv){
+int main(int argc, char **argv){
 	
 	int i;
 	int *k = GC_MALLOC(2 * sizeof(int)); 
