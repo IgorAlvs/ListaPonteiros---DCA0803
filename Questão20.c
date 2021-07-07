@@ -8,7 +8,7 @@ int main(int argc, char **argv){
 	clock_t tempo,t;
     int i;
     tempo = clock();
-    int *k = malloc(250 * sizeof(int));         //250 È o menor tempo para armazenar mais vari·veis
+    int *k = malloc(250 * sizeof(int));         //250 √© o menor tempo para armazenar mais vari√°veis
     
     for(i=0; i<250; i++){
     	k[i]= 20;
@@ -24,7 +24,7 @@ int main(int argc, char **argv){
 	}
 	
 	t = clock() - t;
-	printf("O tempo do GC_MALLOC È : %lf \nO tempo do malloc È: %lf", (double)t/(CLOCKS_PER_SEC/1000),(double)tempo/(CLOCKS_PER_SEC/1000));
+	printf("O tempo do GC_MALLOC √© : %lf \nO tempo do malloc √©: %lf", (double)t/(CLOCKS_PER_SEC/1000),(double)tempo/(CLOCKS_PER_SEC/1000));
 	
 	return 0;
 }
