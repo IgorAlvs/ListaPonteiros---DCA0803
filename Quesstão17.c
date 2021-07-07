@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int *soma (int *v1, int *v2, int x){            //Função para a soma dos vetores
+int *soma (int *v1, int *v2, int x){            //FunÃ§Ã£o para a soma dos vetores
 	
 	int i;
 	int *v3 = malloc(x * sizeof(int));
@@ -16,7 +16,7 @@ int *soma (int *v1, int *v2, int x){            //Função para a soma dos vetores
 	return v3;
 }
 
-int vcont (int t1, int t2){                     //Função para a contagem dos elementos dos vetores 
+int vcont (int t1, int t2){                     //FunÃ§Ã£o para a contagem dos elementos dos vetores 
 	
 	int i;
 	int x;
@@ -47,7 +47,7 @@ int vcont (int t1, int t2){                     //Função para a contagem dos ele
 	return soma(v1, v2, x);
 }
 
-int main (){                                    //Função principal       
+int main (){                                    //FunÃ§Ã£o principal       
 	
 	int t1, t2;
 	int i;
